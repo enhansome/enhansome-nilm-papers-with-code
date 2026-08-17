@@ -33,7 +33,7 @@
             "last_commit": "2020-07-05T18:20:21Z",
             "owner": "MingjunZhong",
             "repo": "transferNILM",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-20T14:34:10Z",
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-04T07:37:10Z",
             "owner": "nilmtk",
             "repo": "nilmtk-contrib",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -279,7 +279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:03:11.887Z",
+    "last_updated": "2026-08-17T17:12:11.782Z",
     "original_repository": "klemenjak/nilm-papers-with-code",
     "original_repository_sha": "cf5628293d5b0a99349f881d7cd3319e34297f67",
     "enhanced_repository": "enhansome/enhansome-nilm-papers-with-code",
