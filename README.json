@@ -1,116 +1,125 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural NILM: Deep neural networks applied to energy disaggregation (2015) [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40657262,
+                "language": "Python",
+                "last_commit": "2019-03-18T16:35:17Z",
+                "owner": "JackKelly",
+                "repo": "neuralnilm",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transfer Learning for Non-Intrusive Load Monitoring. (2019). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203971806,
+                "language": "Python",
+                "last_commit": "2020-07-05T18:20:21Z",
+                "owner": "MingjunZhong",
+                "repo": "transferNILM",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sequence-to-point learning with neural networks for non-intrusive load monitoring (2018) [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113458645,
+                "language": "Python",
+                "last_commit": "2020-07-02T09:05:37Z",
+                "owner": "MingjunZhong",
+                "repo": "NeuralNetNilm",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sliding Window Approach for Online Energy Disaggregation Using Artificial Neural Networks. (2018). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138210285,
+                "language": "Python",
+                "last_commit": "2020-06-27T09:55:32Z",
+                "owner": "OdysseasKr",
+                "repo": "online-nilm",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network. (2021). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336901594,
+                "language": "Python",
+                "last_commit": "2022-06-25T11:57:02Z",
+                "owner": "antoniosudoso",
+                "repo": "attention-nilm",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pruning Algorithms for Seq2Point Energy Disaggregation. (2020). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219492082,
+                "language": "Python",
+                "last_commit": "2020-04-25T11:18:17Z",
+                "owner": "JackBarber98",
+                "repo": "pruned-nilm",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WaveNILM: A causal neural network for power disaggregation from the complex power signal (2019) [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192399107,
+                "language": "Python",
+                "last_commit": "2022-09-23T22:32:06Z",
+                "owner": "picagrad",
+                "repo": "WaveNILM",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Nets"
+        }
+      ],
       "title": "Algorithms"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Neural NILM: Deep neural networks applied to energy disaggregation (2015) [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-18T16:35:17Z",
-            "owner": "JackKelly",
-            "repo": "neuralnilm",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transfer Learning for Non-Intrusive Load Monitoring. (2019). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-05T18:20:21Z",
-            "owner": "MingjunZhong",
-            "repo": "transferNILM",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sequence-to-point learning with neural networks for non-intrusive load monitoring (2018) [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-02T09:05:37Z",
-            "owner": "MingjunZhong",
-            "repo": "NeuralNetNilm",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sliding Window Approach for Online Energy Disaggregation Using Artificial Neural Networks. (2018). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-27T09:55:32Z",
-            "owner": "OdysseasKr",
-            "repo": "online-nilm",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network. (2021). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-25T11:57:02Z",
-            "owner": "antoniosudoso",
-            "repo": "attention-nilm",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pruning Algorithms for Seq2Point Energy Disaggregation. (2020). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-25T11:18:17Z",
-            "owner": "JackBarber98",
-            "repo": "pruned-nilm",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WaveNILM: A causal neural network for power disaggregation from the complex power signal (2019) [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-23T22:32:06Z",
-            "owner": "picagrad",
-            "repo": "WaveNILM",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "Neural Nets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -119,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14891877,
             "language": "Python",
             "last_commit": "2026-07-20T14:34:10Z",
             "owner": "nilmtk",
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190982189,
             "language": "Python",
             "last_commit": "2026-08-04T07:37:10Z",
             "owner": "nilmtk",
@@ -147,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21475519,
             "language": "Matlab",
             "last_commit": "2015-06-26T06:48:35Z",
             "owner": "beckel",
@@ -158,7 +170,7 @@
       "title": "Toolkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -167,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259435171,
             "language": "Python",
             "last_commit": "2020-05-21T07:02:34Z",
             "owner": "ChristoferNal",
@@ -181,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17247889,
             "language": "Python",
             "last_commit": "2026-08-08T09:09:47Z",
             "owner": "nilmtk",
@@ -195,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94084924,
             "language": "Python",
             "last_commit": "2017-06-13T14:38:37Z",
             "owner": "ChristoferNal",
@@ -209,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264920534,
             "language": "Python",
             "last_commit": "2021-08-25T13:03:41Z",
             "owner": "klemenjak",
@@ -220,67 +236,68 @@
       "title": "Misc"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "A synthetic energy dataset for non-intrusive load monitoring in households. (2020). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-04-07T07:56:48Z",
-            "owner": "klemenjak",
-            "repo": "SynD",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics. (2016). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-11-09T14:07:51Z",
-            "owner": "sustainablecomputinglab",
-            "repo": "smartsim",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study. (2020). [pdf]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-25T13:03:41Z",
-            "owner": "klemenjak",
-            "repo": "antgen",
-            "stars": 1
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A synthetic energy dataset for non-intrusive load monitoring in households. (2020). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218721000,
+                "language": null,
+                "last_commit": "2020-04-07T07:56:48Z",
+                "owner": "klemenjak",
+                "repo": "SynD",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics. (2016). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66021444,
+                "language": "Python",
+                "last_commit": "2016-11-09T14:07:51Z",
+                "owner": "sustainablecomputinglab",
+                "repo": "smartsim",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study. (2020). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264920534,
+                "language": "Python",
+                "last_commit": "2021-08-25T13:03:41Z",
+                "owner": "klemenjak",
+                "repo": "antgen",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthetic Datasets and Generators"
         }
       ],
-      "title": "Synthetic Datasets and Generators"
-    },
-    {
-      "description": "To the extent possible under law, Christoph Klemenjak has waived all copyright and related or neighbouring rights to this work.",
-      "items": [],
-      "title": "Licence"
+      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:11:54.409Z",
+    "last_updated": "2026-08-19T12:41:16.363Z",
     "original_repository": "klemenjak/nilm-papers-with-code",
+    "original_repository_id": 225835787,
     "original_repository_sha": "cf5628293d5b0a99349f881d7cd3319e34297f67",
     "enhanced_repository": "enhansome/enhansome-nilm-papers-with-code",
     "enhanced_repository_description": null,
