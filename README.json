@@ -7,6 +7,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "On a Training-Less Solution for Non-Intrusive Appliance Load Monitoring Using Graph Signal Processing (2016). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132706843,
+                "language": "Python",
+                "last_commit": "2022-03-24T11:51:00Z",
+                "owner": "loneharoon",
+                "repo": "GSP_energy_disaggregator",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Signal Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring (NILM). (2015). [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35346068,
+                "language": "Python",
+                "last_commit": "2018-02-25T18:27:06Z",
+                "owner": "smakonin",
+                "repo": "SparseNILM",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hidden Markov Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring. (2022). [link]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377775592,
+                "language": "Python",
+                "last_commit": "2022-06-25T11:54:12Z",
+                "owner": "antoniosudoso",
+                "repo": "nilm-bqp",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mathematical Optimization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Neural NILM: Deep neural networks applied to energy disaggregation (2015) [pdf]",
               "description": "[code]",
               "children": [],
@@ -242,6 +308,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Tracebase [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111099448,
+                "language": null,
+                "last_commit": "2020-02-26T18:31:13Z",
+                "owner": "areinhardt",
+                "repo": "tracebase",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real-World Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A synthetic energy dataset for non-intrusive load monitoring in households. (2020). [pdf]",
               "description": "[code]",
               "children": [],
@@ -295,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:03:30.849Z",
+    "last_updated": "2026-08-24T14:36:27.846Z",
     "original_repository": "klemenjak/nilm-papers-with-code",
     "original_repository_id": 225835787,
     "original_repository_sha": "cf5628293d5b0a99349f881d7cd3319e34297f67",
