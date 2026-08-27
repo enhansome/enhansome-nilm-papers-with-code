@@ -383,9 +383,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:28:23.682Z",
-    "original_repository": "klemenjak/nilm-papers-with-code",
-    "original_repository_id": 225835787,
+    "last_updated": "2026-08-27T11:54:35.202Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 225835787,
+      "language": null,
+      "last_commit": "2024-01-19T15:03:03Z",
+      "owner": "klemenjak",
+      "repo": "nilm-papers-with-code",
+      "stars": 146
+    },
     "original_repository_sha": "cf5628293d5b0a99349f881d7cd3319e34297f67",
     "enhanced_repository": "enhansome/enhansome-nilm-papers-with-code",
     "enhanced_repository_description": null,
