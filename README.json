@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This contains the energy disaggregation code based on Graph Signal Processing approach",
+                "homepage": "https://ieeexplore.ieee.org/document/7457610/",
                 "id": 132706843,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-24T11:51:00Z",
+                "open_issues": 8,
                 "owner": "loneharoon",
                 "repo": "GSP_energy_disaggregator",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "energy-consumption",
+                  "energy-data",
+                  "energy-disaggregation"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -35,12 +44,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The super-state hidden Markov model disaggregator that uses a sparse Viterbi algorithm for decoding. This project contains the source code that was use for my IEEE Transactions on Smart Grid journal paper.",
+                "homepage": null,
                 "id": 35346068,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2018-02-25T18:27:06Z",
+                "open_issues": 0,
                 "owner": "smakonin",
                 "repo": "SparseNILM",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "nilm",
+                  "nilm-algorithms"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -58,12 +75,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mixed-Integer Nonlinear Programming for NILM",
+                "homepage": "https://doi.org/10.1109/TSG.2022.3152147",
                 "id": 377775592,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-25T11:54:12Z",
+                "open_issues": 0,
                 "owner": "antoniosudoso",
                 "repo": "nilm-bqp",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "minlp",
+                  "mixed-integer-programming",
+                  "nilm",
+                  "non-intrusive-load-monitoring"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -81,12 +108,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Neural Networks Applied to Energy Disaggregation",
+                "homepage": null,
                 "id": 40657262,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-18T16:35:17Z",
+                "open_issues": 8,
                 "owner": "JackKelly",
                 "repo": "neuralnilm",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "energy-disaggregation",
+                  "neural-network",
+                  "nilm"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -97,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transfer Learning for Non-Intrusive Load Monitoring",
+                "homepage": null,
                 "id": 203971806,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-05T18:20:21Z",
+                "open_issues": 9,
                 "owner": "MingjunZhong",
                 "repo": "transferNILM",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -113,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sequence-to-point learning for non-intrusive load monitoring (energy disaggregation)",
+                "homepage": null,
                 "id": 113458645,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-02T09:05:37Z",
+                "open_issues": 5,
                 "owner": "MingjunZhong",
                 "repo": "NeuralNetNilm",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -129,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the experiments in \"Sliding Window Approach for Online Energy Disaggregation Using Artificial Neural Networks\"",
+                "homepage": null,
                 "id": 138210285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-27T09:55:32Z",
+                "open_issues": 6,
                 "owner": "OdysseasKr",
                 "repo": "online-nilm",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -145,12 +196,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Attention-based Deep Neural Network for Non-Intrusive Load Monitoring",
+                "homepage": "https://doi.org/10.3390/en14040847",
                 "id": 336901594,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-25T11:57:02Z",
+                "open_issues": 0,
                 "owner": "antoniosudoso",
                 "repo": "attention-nilm",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "attention-mechanism",
+                  "deep-neural-network",
+                  "nilm",
+                  "non-intrusive-load-monitoring"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -161,12 +222,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo provides four weight pruning algorithms for use in sequence-to-point energy disaggregation as well as three alternative neural network architectures.",
+                "homepage": null,
                 "id": 219492082,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-04-25T11:18:17Z",
+                "open_issues": 1,
                 "owner": "JackBarber98",
                 "repo": "pruned-nilm",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "energy-disaggregation",
+                  "keras-tensorflow",
+                  "non-intrusive-load-monitoring",
+                  "pruning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -177,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WaveNILM as published at ICASSP 2019 ",
+                "homepage": null,
                 "id": 192399107,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-23T22:32:06Z",
+                "open_issues": 4,
                 "owner": "picagrad",
                 "repo": "WaveNILM",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -204,12 +282,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Non-Intrusive Load Monitoring Toolkit (nilmtk)",
+            "homepage": "http://nilmtk.github.io",
             "id": 14891877,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T14:34:10Z",
+            "open_issues": 127,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 946
+            "stars": 946,
+            "topics": [
+              "algorithms",
+              "disaggregation",
+              "energy",
+              "energy-disaggregation",
+              "forecasting",
+              "ipython-notebook",
+              "nilm",
+              "nilm-algorithms",
+              "nilmtk",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         },
@@ -220,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 190982189,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T07:37:10Z",
+            "open_issues": 48,
             "owner": "nilmtk",
             "repo": "nilmtk-contrib",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         },
@@ -236,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms",
+            "homepage": null,
             "id": 21475519,
             "language": "Matlab",
+            "license": "GPL-2.0",
             "last_commit": "2015-06-26T06:48:35Z",
+            "open_issues": 12,
             "owner": "beckel",
             "repo": "nilm-eval",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         }
@@ -258,12 +362,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-NILM: Multi Label Non Intrusive Load Monitoring",
+            "homepage": null,
             "id": 259435171,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-21T07:02:34Z",
+            "open_issues": 2,
             "owner": "ChristoferNal",
             "repo": "multi-nilm",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "1d-sax",
+              "blind-source-separation",
+              "boss",
+              "dft",
+              "energy-disaggregation",
+              "multi-label",
+              "multi-label-nilm",
+              "multi-nilm",
+              "nilm",
+              "non-intrusive-load-monitoring",
+              "paa",
+              "sax",
+              "sfa",
+              "signal2vec",
+              "time-series",
+              "time-series-embedding",
+              "time-series-representations",
+              "weasel"
+            ]
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         },
@@ -274,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A schema for modelling meters, measurements, appliances, buildings etc",
+            "homepage": "http://nilm-metadata.readthedocs.org",
             "id": 17247889,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T09:09:47Z",
+            "open_issues": 20,
             "owner": "nilmtk",
             "repo": "nilm_metadata",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         },
@@ -290,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94084924,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-13T14:38:37Z",
+            "open_issues": 1,
             "owner": "ChristoferNal",
             "repo": "power-disaggregation-complexity",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         },
@@ -306,12 +444,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AMBAL-based NILM Trace generator (for NILMTK)",
+            "homepage": "https://github.com/areinhardt/antgen",
             "id": 264920534,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-25T13:03:41Z",
+            "open_issues": 0,
             "owner": "klemenjak",
             "repo": "antgen",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "appliance-models",
+              "energy-disaggregation",
+              "nilm",
+              "nilm-algorithms",
+              "nilmtk",
+              "synthetic-data",
+              "user-modeling",
+              "user-models"
+            ]
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
         }
@@ -330,12 +482,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The tracebase appliance-level power consumption data set",
+                "homepage": "http://www.tracebase.org",
                 "id": 111099448,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-26T18:31:13Z",
+                "open_issues": 0,
                 "owner": "areinhardt",
                 "repo": "tracebase",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "appliance-level",
+                  "consumption",
+                  "energy",
+                  "power",
+                  "tracebase",
+                  "traces"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -353,12 +517,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring",
+                "homepage": null,
                 "id": 218721000,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-07T07:56:48Z",
+                "open_issues": 0,
                 "owner": "klemenjak",
                 "repo": "SynD",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "datasets",
+                  "datasets-simulation",
+                  "energy-consumption",
+                  "energy-disaggregation",
+                  "nilm",
+                  "nilmtk",
+                  "non-intrusive-load-monitoring"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -369,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 66021444,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-09T14:07:51Z",
+                "open_issues": 4,
                 "owner": "sustainablecomputinglab",
                 "repo": "smartsim",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             },
@@ -385,12 +567,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AMBAL-based NILM Trace generator (for NILMTK)",
+                "homepage": "https://github.com/areinhardt/antgen",
                 "id": 264920534,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-25T13:03:41Z",
+                "open_issues": 0,
                 "owner": "klemenjak",
                 "repo": "antgen",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "appliance-models",
+                  "energy-disaggregation",
+                  "nilm",
+                  "nilm-algorithms",
+                  "nilmtk",
+                  "synthetic-data",
+                  "user-modeling",
+                  "user-models"
+                ]
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
             }
@@ -404,15 +600,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:43:24.599Z",
+    "last_updated": "2026-08-29T04:53:42.504Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An archive for NILM papers with source code and other supplemental material",
+      "homepage": null,
       "id": 225835787,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-19T15:03:03Z",
+      "open_issues": 0,
       "owner": "klemenjak",
       "repo": "nilm-papers-with-code",
-      "stars": 146
+      "stars": 146,
+      "topics": [
+        "awesome-list",
+        "energy-disaggregation",
+        "non-intrusive-load-monitoring",
+        "papers-collection",
+        "papers-with-code",
+        "reproducible-paper",
+        "reproducible-research",
+        "scholarship",
+        "source-code"
+      ]
     },
     "original_repository_sha": "cf5628293d5b0a99349f881d7cd3319e34297f67",
     "enhanced_repository": "enhansome/enhansome-nilm-papers-with-code",
