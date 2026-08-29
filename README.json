@@ -18,7 +18,8 @@
                 "owner": "loneharoon",
                 "repo": "GSP_energy_disaggregator",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "smakonin",
                 "repo": "SparseNILM",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "antoniosudoso",
                 "repo": "nilm-bqp",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "JackKelly",
                 "repo": "neuralnilm",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -99,7 +103,8 @@
                 "owner": "MingjunZhong",
                 "repo": "transferNILM",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -114,7 +119,8 @@
                 "owner": "MingjunZhong",
                 "repo": "NeuralNetNilm",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "OdysseasKr",
                 "repo": "online-nilm",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "antoniosudoso",
                 "repo": "attention-nilm",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "JackBarber98",
                 "repo": "pruned-nilm",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "picagrad",
                 "repo": "WaveNILM",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -200,7 +210,8 @@
             "owner": "nilmtk",
             "repo": "nilmtk",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "nilmtk",
             "repo": "nilmtk-contrib",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         },
         {
           "node_type": "item",
@@ -230,7 +242,8 @@
             "owner": "beckel",
             "repo": "nilm-eval",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         }
       ],
       "title": "Toolkits"
@@ -251,7 +264,8 @@
             "owner": "ChristoferNal",
             "repo": "multi-nilm",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         },
         {
           "node_type": "item",
@@ -266,7 +280,8 @@
             "owner": "nilmtk",
             "repo": "nilm_metadata",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         },
         {
           "node_type": "item",
@@ -281,7 +296,8 @@
             "owner": "ChristoferNal",
             "repo": "power-disaggregation-complexity",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         },
         {
           "node_type": "item",
@@ -296,7 +312,8 @@
             "owner": "klemenjak",
             "repo": "antgen",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:43:24.599Z"
         }
       ],
       "title": "Misc"
@@ -319,7 +336,8 @@
                 "owner": "areinhardt",
                 "repo": "tracebase",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -341,7 +359,8 @@
                 "owner": "klemenjak",
                 "repo": "SynD",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -356,7 +375,8 @@
                 "owner": "sustainablecomputinglab",
                 "repo": "smartsim",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             },
             {
               "node_type": "item",
@@ -371,7 +391,8 @@
                 "owner": "klemenjak",
                 "repo": "antgen",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:43:24.599Z"
             }
           ],
           "description": null,
@@ -383,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:10:20.725Z",
+    "last_updated": "2026-08-29T00:43:24.599Z",
     "original_repository_info": {
       "archived": false,
       "id": 225835787,
