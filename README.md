@@ -33,7 +33,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ### Neural Nets
 
-* **Neural NILM: Deep neural networks applied to energy disaggregation** (2015) [\[pdf\]](http://jack-kelly.com/files/writing/neural_nilm.pdf) [\[code\]](https://github.com/JackKelly/neuralnilm) ⭐ 160 | 🐛 8 | 🌐 Python | 📅 2019-03-18
+* **Neural NILM: Deep neural networks applied to energy disaggregation** (2015) [\[pdf\]](http://jack-kelly.com/files/writing/neural_nilm.pdf) [\[code\]](https://github.com/JackKelly/neuralnilm) ⭐ 161 | 🐛 8 | 🌐 Python | 📅 2019-03-18
   * J. Kelly et al. *BuildSys'15*
 
 * **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [\[pdf\]]() [\[code\]](https://github.com/MingjunZhong/transferNILM) ⭐ 133 | 🐛 9 | 🌐 Python | 📅 2020-07-05
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

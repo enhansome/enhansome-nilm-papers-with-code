@@ -117,7 +117,7 @@
                 "open_issues": 8,
                 "owner": "JackKelly",
                 "repo": "neuralnilm",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "energy-disaggregation",
                   "neural-network",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:38:26.908Z",
+    "last_updated": "2026-09-02T19:31:25.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
