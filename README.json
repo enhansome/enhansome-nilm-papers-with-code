@@ -231,7 +231,7 @@
                 "open_issues": 1,
                 "owner": "JackBarber98",
                 "repo": "pruned-nilm",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "convolutional-neural-networks",
                   "energy-disaggregation",
@@ -371,7 +371,7 @@
             "open_issues": 2,
             "owner": "ChristoferNal",
             "repo": "multi-nilm",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "1d-sax",
               "blind-source-separation",
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:31:25.308Z",
+    "last_updated": "2026-09-03T19:28:15.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",

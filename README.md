@@ -48,7 +48,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 * **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network.** (2021). [\[pdf\]](https://www.mdpi.com/1996-1073/14/4/847/pdf) [\[code\]](https://github.com/antoniosudoso/attention-nilm) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2022-06-25
   * V. Piccialli et al. *Energies*
 
-* **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [\[pdf\]]() [\[code\]](https://github.com/JackBarber98/pruned-nilm) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2020-04-25
+* **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [\[pdf\]]() [\[code\]](https://github.com/JackBarber98/pruned-nilm) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2020-04-25
   * J. Barber et al. *.*
 
 * **WaveNILM: A causal neural network for power disaggregation from the complex power signal** (2019) [\[pdf\]](https://arxiv.org/pdf/1902.08736.pdf) [\[code\]](https://github.com/picagrad/WaveNILM) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2022-09-23
@@ -73,7 +73,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Misc
 
-* **On time series representations for multi-label NILM.** (2020) [\[pdf\]](https://link.springer.com/epdf/10.1007/s00521-020-04916-5?sharing_token=bTZg6CBADDbWx7UVvztexPe4RwlQNchNByi7wbcMAY4YyOCPZ8jI-u3LyC4lDtEOZIQACACm_MVY_633J4jzg0CtjGEkhvPkzOs5Z-2UGgB1P_m1_4nDnPxtIplmNRaDx7TM52V6MVQYVJPSqJEKpxv1n3RqXoEm1ZpW5amjaaA%3D) [\[code\]](https://github.com/ChristoferNal/multi-nilm) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2020-05-21
+* **On time series representations for multi-label NILM.** (2020) [\[pdf\]](https://link.springer.com/epdf/10.1007/s00521-020-04916-5?sharing_token=bTZg6CBADDbWx7UVvztexPe4RwlQNchNByi7wbcMAY4YyOCPZ8jI-u3LyC4lDtEOZIQACACm_MVY_633J4jzg0CtjGEkhvPkzOs5Z-2UGgB1P_m1_4nDnPxtIplmNRaDx7TM52V6MVQYVJPSqJEKpxv1n3RqXoEm1ZpW5amjaaA%3D) [\[code\]](https://github.com/ChristoferNal/multi-nilm) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2020-05-21
   * C. Nalmpantis et al. *Springer Neural Computing and Applications.*
 
 * **Metadata for Energy Disaggregation.** (2014) [\[pdf\]](https://ieeexplore.ieee.org/document/6903193) [\[code\]](https://github.com/nilmtk/nilm_metadata) ⭐ 54 | 🐛 20 | 🌐 Python | 📅 2026-08-08
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
