@@ -36,7 +36,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 * **Neural NILM: Deep neural networks applied to energy disaggregation** (2015) [\[pdf\]](http://jack-kelly.com/files/writing/neural_nilm.pdf) [\[code\]](https://github.com/JackKelly/neuralnilm) ⭐ 161 | 🐛 8 | 🌐 Python | 📅 2019-03-18
   * J. Kelly et al. *BuildSys'15*
 
-* **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [\[pdf\]]() [\[code\]](https://github.com/MingjunZhong/transferNILM) ⭐ 133 | 🐛 9 | 🌐 Python | 📅 2020-07-05
+* **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [\[pdf\]]() [\[code\]](https://github.com/MingjunZhong/transferNILM) ⭐ 134 | 🐛 9 | 🌐 Python | 📅 2020-07-05
   * D. Michele et al. *IEEE TSG.*
 
 * **Sequence-to-point learning with neural networks for non-intrusive load monitoring** (2018) [\[pdf\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980) [\[code\]](https://github.com/MingjunZhong/NeuralNetNilm) ⭐ 78 | 🐛 5 | 🌐 Python | 📅 2020-07-02
@@ -56,7 +56,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Toolkits
 
-* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 947 | 🐛 127 | 🌐 Python | 📅 2026-07-20
+* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 948 | 🐛 127 | 🌐 Python | 📅 2026-07-20
 
 * **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 143 | 🐛 48 | 🌐 Python | 📅 2026-08-04
   * N. Batra et al. *BuildSys'19.*
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
