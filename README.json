@@ -288,7 +288,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-20T14:34:10Z",
-            "open_issues": 127,
+            "open_issues": 129,
             "owner": "nilmtk",
             "repo": "nilmtk",
             "stars": 948,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:11:10.213Z",
+    "last_updated": "2026-09-08T19:37:10.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
