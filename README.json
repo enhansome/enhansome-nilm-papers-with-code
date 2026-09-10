@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "smakonin",
                 "repo": "SparseNILM",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "nilm",
                   "nilm-algorithms"
@@ -117,7 +117,7 @@
                 "open_issues": 8,
                 "owner": "JackKelly",
                 "repo": "neuralnilm",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "energy-disaggregation",
                   "neural-network",
@@ -142,7 +142,7 @@
                 "open_issues": 9,
                 "owner": "MingjunZhong",
                 "repo": "transferNILM",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:43:24.599Z"
@@ -291,7 +291,7 @@
             "open_issues": 129,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "algorithms",
               "disaggregation",
@@ -323,7 +323,7 @@
             "open_issues": 48,
             "owner": "nilmtk",
             "repo": "nilmtk-contrib",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
@@ -344,7 +344,7 @@
             "open_issues": 12,
             "owner": "beckel",
             "repo": "nilm-eval",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
@@ -411,7 +411,7 @@
             "open_issues": 20,
             "owner": "nilmtk",
             "repo": "nilm_metadata",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:30:57.978Z",
+    "last_updated": "2026-09-10T19:18:05.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
