@@ -56,7 +56,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Toolkits
 
-* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 951 | 🐛 129 | 🌐 Python | 📅 2026-07-20
+* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 952 | 🐛 129 | 🌐 Python | 📅 2026-07-20
 
 * **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 144 | 🐛 48 | 🌐 Python | 📅 2026-08-04
   * N. Batra et al. *BuildSys'19.*
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
