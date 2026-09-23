@@ -323,7 +323,7 @@
             "open_issues": 48,
             "owner": "nilmtk",
             "repo": "nilmtk-contrib",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:43:24.599Z"
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:54:34.516Z",
+    "last_updated": "2026-09-23T19:51:16.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
