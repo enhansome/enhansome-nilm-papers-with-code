@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "On a Training-Less Solution for Non-Intrusive Appliance Load Monitoring Using Graph Signal Processing (2016). [pdf]",
-              "description": "[code]",
+              "description": "loneharoon/GSP_energy_disaggregator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -40,7 +40,7 @@
             {
               "node_type": "item",
               "title": "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring (NILM). (2015). [pdf]",
-              "description": "[code]",
+              "description": "smakonin/SparseNILM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring. (2022). [link]",
-              "description": "[code]",
+              "description": "antoniosudoso/nilm-bqp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Neural NILM: Deep neural networks applied to energy disaggregation (2015) [pdf]",
-              "description": "[code]",
+              "description": "JackKelly/neuralnilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -129,7 +129,7 @@
             {
               "node_type": "item",
               "title": "Transfer Learning for Non-Intrusive Load Monitoring. (2019). [pdf]",
-              "description": "[code]",
+              "description": "MingjunZhong/transferNILM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -150,7 +150,7 @@
             {
               "node_type": "item",
               "title": "Sequence-to-point learning with neural networks for non-intrusive load monitoring (2018) [pdf]",
-              "description": "[code]",
+              "description": "MingjunZhong/NeuralNetNilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "Sliding Window Approach for Online Energy Disaggregation Using Artificial Neural Networks. (2018). [pdf]",
-              "description": "[code]",
+              "description": "OdysseasKr/online-nilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network. (2021). [pdf]",
-              "description": "[code]",
+              "description": "antoniosudoso/attention-nilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -218,7 +218,7 @@
             {
               "node_type": "item",
               "title": "Pruning Algorithms for Seq2Point Energy Disaggregation. (2020). [pdf]",
-              "description": "[code]",
+              "description": "JackBarber98/pruned-nilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,7 +246,7 @@
             {
               "node_type": "item",
               "title": "WaveNILM: A causal neural network for power disaggregation from the complex power signal (2019) [pdf]",
-              "description": "[code]",
+              "description": "picagrad/WaveNILM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "NILMTK [pdf]",
-          "description": "[code]",
+          "description": "nilmtk/nilmtk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -310,7 +310,7 @@
         {
           "node_type": "item",
           "title": "Towards reproducible state-of-the-art energy disaggregation. (2019) [pdf]",
-          "description": "[code]",
+          "description": "nilmtk/nilmtk-contrib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -331,7 +331,7 @@
         {
           "node_type": "item",
           "title": "NILM-Eval [pdf]",
-          "description": "[code]",
+          "description": "beckel/nilm-eval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -358,7 +358,7 @@
         {
           "node_type": "item",
           "title": "On time series representations for multi-label NILM. (2020) [pdf]",
-          "description": "[code]",
+          "description": "ChristoferNal/multi-nilm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -398,7 +398,7 @@
         {
           "node_type": "item",
           "title": "Metadata for Energy Disaggregation. (2014) [pdf]",
-          "description": "[code]",
+          "description": "nilmtk/nilm_metadata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review (2018). [pdf]",
-          "description": "[code]",
+          "description": "ChristoferNal/power-disaggregation-complexity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "Device-Free User Activity Detection using Non-Intrusive Load Monitoring: A Case Study. (2020). [pdf]",
-          "description": "[code]",
+          "description": "klemenjak/antgen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "Tracebase [link]",
-              "description": null,
+              "description": "areinhardt/tracebase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
             {
               "node_type": "item",
               "title": "A synthetic energy dataset for non-intrusive load monitoring in households. (2020). [pdf]",
-              "description": "[code]",
+              "description": "klemenjak/SynD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -542,7 +542,7 @@
             {
               "node_type": "item",
               "title": "SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics. (2016). [pdf]",
-              "description": "[code]",
+              "description": "sustainablecomputinglab/smartsim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
             {
               "node_type": "item",
               "title": "How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study. (2020). [pdf]",
-              "description": "[code]",
+              "description": "klemenjak/antgen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:02:25.010Z",
+    "last_updated": "2026-10-03T04:58:07.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
