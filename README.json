@@ -407,8 +407,8 @@
             "id": 17247889,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T01:30:28Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-06T08:26:50Z",
+            "open_issues": 22,
             "owner": "nilmtk",
             "repo": "nilm_metadata",
             "stars": 56,
@@ -600,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:56:14.032Z",
+    "last_updated": "2026-10-06T11:07:28.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "An archive for NILM papers with source code and other supplemental material",
