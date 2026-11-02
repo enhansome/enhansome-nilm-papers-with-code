@@ -56,9 +56,9 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Toolkits
 
-* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 962 | 🐛 129 | 🌐 Python | 📅 2026-07-20
+* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 963 | 🐛 129 | 🌐 Python | 📅 2026-07-20
 
-* **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 145 | 🐛 48 | 🌐 Python | 📅 2026-08-04
+* **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 146 | 🐛 48 | 🌐 Python | 📅 2026-08-04
   * N. Batra et al. *BuildSys'19.*
 
 * NILM-Eval [\[pdf\]]() [\[code\]](https://github.com/beckel/nilm-eval) ⭐ 120 | 🐛 12 | 🌐 Matlab | 📅 2015-06-26
@@ -76,7 +76,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 * **On time series representations for multi-label NILM.** (2020) [\[pdf\]](https://link.springer.com/epdf/10.1007/s00521-020-04916-5?sharing_token=bTZg6CBADDbWx7UVvztexPe4RwlQNchNByi7wbcMAY4YyOCPZ8jI-u3LyC4lDtEOZIQACACm_MVY_633J4jzg0CtjGEkhvPkzOs5Z-2UGgB1P_m1_4nDnPxtIplmNRaDx7TM52V6MVQYVJPSqJEKpxv1n3RqXoEm1ZpW5amjaaA%3D) [\[code\]](https://github.com/ChristoferNal/multi-nilm) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2020-05-21
   * C. Nalmpantis et al. *Springer Neural Computing and Applications.*
 
-* **Metadata for Energy Disaggregation.** (2014) [\[pdf\]](https://ieeexplore.ieee.org/document/6903193) [\[code\]](https://github.com/nilmtk/nilm_metadata) ⭐ 56 | 🐛 23 | 🌐 Python | 📅 2026-10-26
+* **Metadata for Energy Disaggregation.** (2014) [\[pdf\]](https://ieeexplore.ieee.org/document/6903193) [\[code\]](https://github.com/nilmtk/nilm_metadata) ⭐ 56 | 🐛 24 | 🌐 Python | 📅 2026-11-02
   * J. Kelly et al. *CDS'14.*
 
 * **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** (2018). [\[pdf\]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/) [\[code\]](https://github.com/ChristoferNal/power-disaggregation-complexity) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2017-06-13
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
