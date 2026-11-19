@@ -48,7 +48,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 * **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network.** (2021). [\[pdf\]](https://www.mdpi.com/1996-1073/14/4/847/pdf) [\[code\]](https://github.com/antoniosudoso/attention-nilm) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2022-06-25
   * V. Piccialli et al. *Energies*
 
-* **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [\[pdf\]]() [\[code\]](https://github.com/JackBarber98/pruned-nilm) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2020-04-25
+* **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [\[pdf\]]() [\[code\]](https://github.com/JackBarber98/pruned-nilm) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2020-04-25
   * J. Barber et al. *.*
 
 * **WaveNILM: A causal neural network for power disaggregation from the complex power signal** (2019) [\[pdf\]](https://arxiv.org/pdf/1902.08736.pdf) [\[code\]](https://github.com/picagrad/WaveNILM) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2022-09-23
@@ -56,9 +56,9 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Toolkits
 
-* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 966 | 🐛 130 | 🌐 Python | 📅 2026-07-20
+* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 964 | 🐛 130 | 🌐 Python | 📅 2026-07-20
 
-* **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 146 | 🐛 50 | 🌐 Python | 📅 2026-11-14
+* **Towards reproducible state-of-the-art energy disaggregation.** (2019) [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 145 | 🐛 50 | 🌐 Python | 📅 2026-11-14
   * N. Batra et al. *BuildSys'19.*
 
 * NILM-Eval [\[pdf\]]() [\[code\]](https://github.com/beckel/nilm-eval) ⭐ 120 | 🐛 12 | 🌐 Matlab | 📅 2015-06-26
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
