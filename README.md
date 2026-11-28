@@ -51,7 +51,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 * **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [\[pdf\]]() [\[code\]](https://github.com/JackBarber98/pruned-nilm) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2020-04-25
   * J. Barber et al. *.*
 
-* **WaveNILM: A causal neural network for power disaggregation from the complex power signal** (2019) [\[pdf\]](https://arxiv.org/pdf/1902.08736.pdf) [\[code\]](https://github.com/picagrad/WaveNILM) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2022-09-23
+* **WaveNILM: A causal neural network for power disaggregation from the complex power signal** (2019) [\[pdf\]](https://arxiv.org/pdf/1902.08736.pdf) [\[code\]](https://github.com/picagrad/WaveNILM) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2022-09-23
   * Alon Harell et al. *ICASSP'19*
 
 ## Toolkits
@@ -119,4 +119,4 @@ To the extent possible under law, [Christoph Klemenjak](https://github.com/kleme
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
